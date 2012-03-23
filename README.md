@@ -24,7 +24,7 @@
     br - Backbone.Router
     bv - Backbone.View
 
-    **MODEL**
+    *MODEL*
     bme         - Create a Model class 
     clear       - Removes all attributes from the model
     def         - Specify default attributes for model
@@ -42,17 +42,17 @@
     tr          - Trigger callbacks for the given event
     unset       - Remove an attribute
 
-    **COLLECTION**
+    *COLLECTION*
 
-    **ROUTER**
+    *ROUTER*
 
-    **HISTORY**
+    *HISTORY*
 
-    **SYNC**
+    *SYNC*
 
-    **VIEW**
+    *VIEW*
 
-    **UTILITY**
+    *UTILITY*
 
     
 
