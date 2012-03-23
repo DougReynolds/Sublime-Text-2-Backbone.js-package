@@ -64,5 +64,5 @@ Available from [Sublime Package Control](http://wbond.net/sublime_packages/packa
 Any requests to add more snippets? ideas to make it better? random requests? just ping me or open a pull request straight away.
 
 
-CoffeScript support added by @dougrdotnet
+CoffeScript support added by [@dougrdotnet](https://github.com/dougrdotnet/)
   
