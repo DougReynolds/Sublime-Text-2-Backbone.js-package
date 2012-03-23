@@ -1,8 +1,0 @@
-<snippet>
-    <content><![CDATA[
-JSON.stringify ${1:model}
-]]></content>
-    <tabTrigger>json</tabTrigger>
-    <scope>source.coffee</scope>
-    <description>Return a JSON copy of model attributes</description>
-</snippet>
